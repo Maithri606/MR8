@@ -14,7 +14,7 @@ public class GeminiHelper {
         void onResult(String result);
     }
 
-    private static final String API_KEY = "AIzaSyAIw77rOVaJnRwY8wkgHCY9xWdOoa7RWcw";
+    private static final String API_KEY = "API-KEY";
 
     public static void analyzePrescription(Bitmap image, GeminiCallback callback) {
 
